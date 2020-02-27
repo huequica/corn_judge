@@ -1,7 +1,7 @@
 English README is [here](./README.md)
 
 # Corn_Judge
-[LITONE5](https://desout2.tk/litone5-beatoraja/)用の差分判定文字です。
+[LITONE5](https://desout2.tk/litone5-beatoraja/)用の差分判定文字です。  
 (後続のバージョンでも使えるかも？確認はしてないです)
 
 # Credit
