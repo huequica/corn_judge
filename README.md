@@ -1,4 +1,4 @@
-# Corna_Judge
+# Corn_Judge
 
 huequica's original judge for [LITONE5](https://desout2.tk/litone5-beatoraja/)  
 (and other release?)
