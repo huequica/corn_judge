@@ -1,5 +1,5 @@
 ## `./png`
-Builded png file.
+Builded png file.  
 You can use it by copying png as it is.
 
 ## `./svg`
