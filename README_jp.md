@@ -12,7 +12,7 @@ English README is [here](./README.md)
 
 # How to use
 1. リポジトリをクローンしてください。(もしくはzipでダウンロード)
-2. `$(beatoraja root)/skin/LITONE5/Play/parts/ac/judge` に[判定文字画像]()をコピーしてください。
+2. `$(beatoraja root)/skin/LITONE5/Play/parts/ac/judge` に[判定文字画像](./judge/png/corn.png)をコピーしてください。
 3. `$(beatoraja root)/skin/LITONE5/Play/csv/$(設定しているプレイサイド).csv`を適当なエディタで開いてください。
 4. 記述を一部変更してください。(`judge` で検索すると見つけるのが楽です。)
 ![記述後のコード](./README_images/csv.png)
