@@ -8,8 +8,7 @@ huequica's original judge for [LITONE5](https://desout2.tk/litone5-beatoraja/)
 **Use this at your own risk.**
 
 # demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5vMbB7kNPfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![](https://img.youtube.com/vi/5vMbB7kNPfQ/0.jpg)](https://www.youtube.com/watch?v=5vMbB7kNPfQ)
 # Credit
 + [Corner font](http://www.cfont.jp/eijifree/corner.html)
   + Used this font
