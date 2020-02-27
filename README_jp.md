@@ -4,6 +4,9 @@ English README is [here](./README.md)
 [LITONE5](https://desout2.tk/litone5-beatoraja/)用の差分判定文字です。  
 (後続のバージョンでも使えるかも？確認はしてないです)
 
+# Warning
+**自己責任のもとで使用してください**
+
 # Credit
 + [Corner font](http://www.cfont.jp/eijifree/corner.html)
   + こちらのフォントを利用させていただきました。
