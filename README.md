@@ -1,5 +1,6 @@
-# Corn_Judge
+日本語のREADMEは[こちら](./README_jp.md)
 
+# Corn_Judge
 huequica's original judge for [LITONE5](https://desout2.tk/litone5-beatoraja/)  
 (and other release?)
 
