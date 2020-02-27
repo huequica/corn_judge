@@ -5,9 +5,10 @@ huequica's original judge for [LITONE5](https://desout2.tk/litone5-beatoraja/)
 (and other release?)
 
 # Credit
-[Corner font](http://www.cfont.jp/eijifree/corner.html)
-
-Thank you to using this font.
++ [Corner font](http://www.cfont.jp/eijifree/corner.html)
+  + Used this font
++ [It Wasn't Me](https://www.nicovideo.jp/watch/sm35954548)
+  + Allowed to reference
 
 # How to use
 1. Clone this repos.(or download repos zip.)

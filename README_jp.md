@@ -5,10 +5,10 @@ English README is [here](./README.md)
 (後続のバージョンでも使えるかも？確認はしてないです)
 
 # Credit
-[Corner font](http://www.cfont.jp/eijifree/corner.html)
-
-この判定文字の作成に際し利用させていただきました。  
-ありがとうございます。
++ [Corner font](http://www.cfont.jp/eijifree/corner.html)
+  + こちらのフォントを利用させていただきました。
++ [It Wasn't Me](https://www.nicovideo.jp/watch/sm35954548)
+  + 画像配置の参考にさせていただきました。
 
 # How to use
 1. リポジトリをクローンしてください。(もしくはzipでダウンロード)
